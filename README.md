@@ -26,4 +26,4 @@ A video demonstration of the API routes can be found on [Youtube]( https://drive
 If you have any questions about the repo, please [open an issue](https://github.com/deckiedevs/social-network-api/issues) or contact me via email at deckiedevs@gmail.com. You can find more of my work on my GitHub, [deckiedevs](https://github.com/deckiedevs/).
     
 ## Credits
-* Coded with fervor by Mila Decker. 
+* Coded with fervor by Kruti Patel. 
